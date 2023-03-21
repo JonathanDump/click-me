@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 35px;
+}
